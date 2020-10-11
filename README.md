@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm S kranthi kumar</h1>
 <h3 align="center">A passionate Full Stack Developer developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kranthi0987" alt="kranthi0987" /> </p>
+
 
 <p align="left">
   </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kranthi0987&show_icons=true" alt="kranthi0987" /> </p>
